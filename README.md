@@ -8,7 +8,7 @@ Create CRUD with cli (Commend Line Interface) in Codeigniter.
 # Features
 ```
 One commend can create
-  1. Create Controler with given name
+  1. Create Controller with given name
   2. Create Model with given name
   3. Create View folder and basic necessary file with given name
   4. Create Assets folder and basic necessary file with given name
