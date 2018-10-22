@@ -12,6 +12,10 @@ One commend can create
   2. Create Model with given name
   3. Create View folder and basic necessary file with given name
   4. Create Assets folder and basic necessary file with given name
+  5. Create Table with primary key
+  6. Remove CRUD
+  7. Remove Controller
+  8. Remove Model
   
 !! CAUTION !!
 I use it for my personal project which is created by my own style. So not every one can use this.
